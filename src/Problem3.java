@@ -14,6 +14,9 @@
 public class Problem3 {
 
 	public static void main(String[] args) {
-		
+		// THE BRUTE FORCE WAY:
+		// get all divisors of 600851475143
+		// check which ones are primes
+		// sort and display the largest
 	}
 }
